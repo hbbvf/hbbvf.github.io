@@ -6,6 +6,8 @@
 ## Husabergbakken Velforeningen
 * [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.google.com/file/d/1YlJl7WWUZ7ujty4QSnAZYOzNeTJKAiZd/view?usp=sharing)
 
+******
+
 ## Useful links
 
 * [Stavanger kommune hjemmeside](https://www.stavanger.kommune.no/)

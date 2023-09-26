@@ -1,5 +1,5 @@
-# Husabergbakken Velforening 
-## Additional header for testing 
+# Husabergbakken Velforening - index
+
 ******
 
 ## Ansvarsfordeling / Areas of responsibility

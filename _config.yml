@@ -1,9 +1,9 @@
 # Site settings
-title: Husabergbakken Velforening config 
+title: Husabergbakken Velforening 
 author:
   name: Husabergbakken velforening styre
   email: husabergbakkenvelforening@gmail.com 
-description: "Husabergbakken Velforening from config"
+description: "Husabergbakken Velforening hjemmeside"
 
 # Build settings
 remote_theme: jekyll/minima

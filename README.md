@@ -1,9 +1,10 @@
 #  Husabergbakken Velforening 
 
 ## Ansvarsfordeling / Areas of responsibility
-[link test](https://drive.google.com/file/d/1E2f1rlFqocA5YlLWsoW9_XwCNauA3h_-/view?usp=sharing) 
+* [ Ansvarsfordeling / Areas of responsibility](https://drive.google.com/file/d/1E2f1rlFqocA5YlLWsoW9_XwCNauA3h_-/view?usp=sharing) 
 
 ## Husabergbakken Velforeningen
+* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.google.com/file/d/1YlJl7WWUZ7ujty4QSnAZYOzNeTJKAiZd/view?usp=sharing)
 
 ## Useful links
 

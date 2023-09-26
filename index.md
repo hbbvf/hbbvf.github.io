@@ -1,6 +1,6 @@
 
 
-# Husabergbakken Velforening - further down 
+# Husabergbakken Velforening 
 
 ****** 
 ## Ansvarsfordeling / Areas of responsibility

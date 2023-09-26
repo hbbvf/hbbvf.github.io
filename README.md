@@ -17,4 +17,4 @@
 
 *******
 
-[Contact VF](mailto:husabergbakkenvelforening@gmail.com?subject=HusabergbakkenVF)
+[Contact VF](mailto:husabergbakkenvelforening@gmail.com?subject=Husabergbakken%20VF)

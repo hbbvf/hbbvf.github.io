@@ -15,7 +15,7 @@
 
 ## Useful links
 
-* [Stavanger kommune hjemmeside](https://www.stavanger.kommune.no/)
+* [Stavanger kommune hjemmeside / Stavanger council home page](https://www.stavanger.kommune.no/)
 * [Hentavfall / Collection of waste by local council](https://www.hentavfall.no/rogaland/stavanger/)
 * [Tommekalendar / Dustbin emptying schedule](https://www.stavanger.kommune.no/renovasjon-og-miljo/tommekalender/finn-kalender/)
 * [Avfallsbeholdere / Order replacement dustbin](https://www.stavanger.kommune.no/renovasjon-og-miljo/avfallsbeholdere/)

@@ -1,7 +1,6 @@
 remote_theme: jekyll/minima
 
 title: 
-  enabled: false
 
 titles_from_headings:
   enabled: false

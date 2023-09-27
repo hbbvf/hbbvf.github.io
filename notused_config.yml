@@ -1,9 +1,0 @@
-# Site settings
-title: Husabergbakken Velforening 
-author:
-  name: Husabergbakken velforening styre
-  email: husabergbakkenvelforening@gmail.com 
-description: "Husabergbakken Velforening hjemmeside"
-
-# Build settings
-remote_theme: jekyll/minima

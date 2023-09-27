@@ -4,3 +4,5 @@ titles_from_headings:
   enabled: false
   strip_title: true
   collections: true 
+
+  # Reference can be found here https://github.com/jekyll/minima/

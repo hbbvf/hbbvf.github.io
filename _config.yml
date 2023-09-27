@@ -1,5 +1,7 @@
 remote_theme: jekyll/minima
-#nofeed: true 
+
+title: 
+  site: false
 
 titles_from_headings:
   enabled: false

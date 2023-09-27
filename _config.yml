@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+remote_theme: jekyll/no-style-please
 
 titles_from_headings:
   enabled: false

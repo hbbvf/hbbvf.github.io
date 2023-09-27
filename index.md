@@ -1,6 +1,4 @@
-#
-# Testing 1  
-# Husabergbakken Velforening
+# Husabergbakken Velforening 101
 
 ****** 
 ## Ansvarsfordeling / Areas of responsibility

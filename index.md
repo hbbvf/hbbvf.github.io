@@ -1,4 +1,4 @@
-# Husabergbakken Velforening 
+# Husabergbakken Velforening Home Page 
 
 ****** 
 ## Ansvarsfordeling / Areas of responsibility
@@ -6,7 +6,7 @@
 
 ******
 
-## Husabergbakken Velforeningen
+## Husabergbakken Velforeningen Information 
 * [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.google.com/file/d/1E2f1rlFqocA5YlLWsoW9_XwCNauA3h_-/view?usp=sharing)
 
 ******

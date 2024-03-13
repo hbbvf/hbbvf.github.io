@@ -1,6 +1,6 @@
 # Husabergbakken Velforening Home Page 
 
-## 12-Mars-2024 Årsmøte 
+## 20-Mars-2024 Årsmøte 
 
 1. Godkjenning av innkalling og dagsorden
 

@@ -1,18 +1,7 @@
 # Husabergbakken Velforening Home Page 
 
-## 20-Mars-2024 Årsmøte 
 
-1. Godkjenning av innkalling og dagsorden
-
-2. Valg av møteleder, referent, samt 2 til å undertegne protokollen
-
-3. Styrets beretning
-
-4. Regnskap (kontantprinsipp)
-
-5. Informasjon om dugnad og lekeplasser
-
-* [Meeting reference](https://hbbvf.github.io/meetings.md)
+* [Meeting reference](meetings.md)
 
 ****** 
 ## Ansvarsfordeling / Areas of responsibility

@@ -12,7 +12,7 @@
 
 5. Informasjon om dugnad og lekeplasser
 
-* [aråsmote reference](https://hbbvf.github.io/årsmøte.md)
+* [Meeting reference](https://hbbvf.github.io/meetings.md)
 
 ****** 
 ## Ansvarsfordeling / Areas of responsibility

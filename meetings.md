@@ -2,7 +2,7 @@
 
 ******
 
-## Next schuled årsmøte : as yet undecided
+## Next scheduled årsmøte : currently undecided
 
 ******
 
@@ -22,9 +22,6 @@
 
 
 ****** 
-
-
-
 
 ### Send epost til styre / Send an email to the VF
 

@@ -26,6 +26,12 @@
 
 *******
 
+## Personvernerklæring
+
+ * [Personvernerklæring / Privacy Statement](privacy.md)
+
+*******
+
 ### Send epost til styre / Send an email to the VF
 
 [Contact VF](mailto:husabergbakkenvelforening@gmail.com?subject=Husabergbakken%20VF%20fra%20websiden)

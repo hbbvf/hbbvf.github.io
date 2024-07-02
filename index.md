@@ -1,8 +1,8 @@
-# Husabergbakken Velforening Home Page 
+# Husabergbakken Velforening Hjemmeside  /   Husabergbakken Velforening Home Page 
 
 ****** 
 
-* [Meeting reference](meetings.md)
+* [Møte-referanse  /  Meeting reference](meetings.md)
 
 ****** 
 ## Ansvarsfordeling / Areas of responsibility
@@ -26,7 +26,7 @@
 
 *******
 
-## Personvernerklæring
+## Personvernerklæring  /  Privacy Statement
 
  * [Personvernerklæring / Privacy Statement](privacy.md)
 

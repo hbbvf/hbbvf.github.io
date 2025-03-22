@@ -11,7 +11,9 @@
 ******
 
 ## Husabergbakken Velforeningen Information 
-* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.google.com/file/d/1E2f1rlFqocA5YlLWsoW9_XwCNauA3h_-/view?usp=sharing)
+* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.google.com/file/d/11WU3vIau8462VHrTOua8mQ6c-jbI3lgK/view?usp=sharing)
+
+https://drive.google.com/file/d/11WU3vIau8462VHrTOua8mQ6c-jbI3lgK/view?usp=sharing
 
 ******
 

@@ -29,7 +29,7 @@
 * [Varsle om feil VOF / Report a problem to the council](https://www.stavanger.kommune.no/varsle-om-feil/)
 * [Gjenvinningsstatjon / Recycling centres](https://www.ivar.no/apningstider/)
 
-******;
+******
 
 ## Personvernerklæring  /  Privacy Statement
 

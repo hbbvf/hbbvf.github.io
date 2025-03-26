@@ -11,9 +11,14 @@
 ******
 
 ## Husabergbakken Velforeningen Information 
-* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.google.com/file/d/11WU3vIau8462VHrTOua8mQ6c-jbI3lgK/view?usp=sharing)
+* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.
+google.com/file/d/11WU3vIau8462VHrTOua8mQ6c-jbI3lgK/view?usp=sharing)
+
+* [ools owned by the Velforening](./tools.md)
 
 ******
+
+
 
 ## Useful links
 

@@ -4,7 +4,7 @@
 
 ******
 
-### Next scheduled årsmøte : To be decided 
+### Next scheduled årsmøte : To be decided
 
 ### Agenda
 

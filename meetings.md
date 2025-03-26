@@ -1,23 +1,22 @@
 # Husabergbakken Velforening
 
-## Årsmøte reference 
+## Årsmøte reference
 
 ******
 
 ### Next scheduled årsmøte : 2025-03-25 - 19.00
 
-### Agenda 
+### Agenda
 
+* As yet undecided
 
- * As yet undecided 
- 
  ******
 
 ## Previous årsmøte
 
 ### [Årsmøte 2025 - 2025-03-25](https://drive.google.com/file/d/1mVyouAkIIV4NPNWUX6Vqzxgb4VDgqHMQ/view?usp=sharing)
 
-### 20-Mars-2024 Årsmøte 
+### 20-Mars-2024 Årsmøte
 
 1. Godkjenning av innkalling og dagsorden
 
@@ -29,8 +28,7 @@
 
 5. Informasjon om dugnad og lekeplasser
 
-
-****** 
+******
 
 ### Send epost til styre / Send an email to the VF
 

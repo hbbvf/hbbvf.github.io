@@ -1,24 +1,25 @@
-# Husabergbakken Velforening Hjemmeside  /   Husabergbakken Velforening Home Page 
-
-****** 
-
-* [Møte-referanse  /  Meeting reference](meetings.md)
-
-****** 
-## Ansvarsfordeling / Areas of responsibility
-* [ Ansvarsfordeling / Areas of responsibility](https://drive.google.com/file/d/1YlJl7WWUZ7ujty4QSnAZYOzNeTJKAiZd/view?usp=sharing)
+# Husabergbakken Velforening Hjemmeside  /   Husabergbakken Velforening Home Page
 
 ******
 
-## Husabergbakken Velforeningen Information 
-* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen.](https://drive.
+* [Møte-referanse  /  Meeting reference](meetings.md)
+
+******
+
+## Ansvarsfordeling / Areas of responsibility
+
+* [Ansvarsfordeling / Areas of responsibility](https://drive.google.com/file/d/1YlJl7WWUZ7ujty4QSnAZYOzNeTJKAiZd/view?usp=sharing)
+
+******
+
+## Husabergbakken Velforeningen Information
+
+* [Info om Velforeningen til Husabergbakken / Information on the Husabergbakken Velforeningen](https://drive.
 google.com/file/d/11WU3vIau8462VHrTOua8mQ6c-jbI3lgK/view?usp=sharing)
 
 * [Tools owned by the Velforening](./tools.md)
 
 ******
-
-
 
 ## Useful links
 
@@ -29,13 +30,13 @@ google.com/file/d/11WU3vIau8462VHrTOua8mQ6c-jbI3lgK/view?usp=sharing)
 * [Varsle om feil VOF / Report a problem to the council](https://www.stavanger.kommune.no/varsle-om-feil/)
 * [Gjenvinningsstatjon / Recycling centres](https://www.ivar.no/apningstider/)
 
-*******
+******;
 
 ## Personvernerklæring  /  Privacy Statement
 
- * [Personvernerklæring / Privacy Statement](privacy.md)
+* [Personvernerklæring / Privacy Statement](privacy.md)
 
-*******
+******
 
 ### Send epost til styre / Send an email to the VF
 

@@ -1,4 +1,4 @@
-### Tools owned by Velforening 
+### Tools owned by Husabergbakken Velforening 
 
 | Tool  |  Location  | Last update | 
 |-------|------------|-------------|

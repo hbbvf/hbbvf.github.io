@@ -8,11 +8,14 @@
 
 ### Agenda 
 
-* [Årsmøte 2025 - 2025-03-25](https://drive.google.com/file/d/1mVyouAkIIV4NPNWUX6Vqzxgb4VDgqHMQ/view?usp=sharing)
 
-******
+ * As yet undecided 
+ 
+ ******
 
 ## Previous årsmøte
+
+### [Årsmøte 2025 - 2025-03-25](https://drive.google.com/file/d/1mVyouAkIIV4NPNWUX6Vqzxgb4VDgqHMQ/view?usp=sharing)
 
 ### 20-Mars-2024 Årsmøte 
 

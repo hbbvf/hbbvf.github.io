@@ -4,7 +4,7 @@
 
 ******
 
-### Next scheduled årsmøte : 2025-03-25 - 19.00
+### Next scheduled årsmøte : To be decided 
 
 ### Agenda
 
